@@ -1,2 +1,5 @@
 # FFRL-Floor-Scanner
-Code to run/operate the FFRL profile robot and attached scanner
+**Organization:** NASA Marshall Space Flight Center, Flat Floor Robotics Lab
+**Created:** February 27, 2025
+**Authors:** Will Armentrout, Mason Phillips
+**Version:** v00
